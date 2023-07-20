@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689795677 source:c:\users\danie\desktop\segundo quimestre\curso udemy programacion\biblioteca estandar de c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<limits.h>
+
