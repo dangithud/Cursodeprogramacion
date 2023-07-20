@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689873545 source:c:\users\danie\desktop\segundo quimestre\curso udemy programacion\usb blackjack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
